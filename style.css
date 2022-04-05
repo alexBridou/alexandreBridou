@@ -1,3 +1,9 @@
 body {
     color: pink;
 }
+
+header {
+    display: flex;
+    color: blue;
+    background-color: red;
+}
