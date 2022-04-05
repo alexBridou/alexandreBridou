@@ -4,4 +4,8 @@ Bonjour ceci est mon premier commit
 Voici une branche à casser
 
 heelo c est moi on va mettre le foutoir
+<<<<<<< HEAD
 c est bon la 
+=======
+Xavier tu te calmes
+>>>>>>> f5c7f40ebf40ca9c517379ba6065b82ed7a539ed
